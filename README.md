@@ -24,16 +24,13 @@ Steps to contribute:
 2. To start working click the 'Fork' button in the top right to fork the repository.
 3. Clone the repository using the following command
  ```bash
-  git clone https://link-to-project
+  https://github.com/HarshJha-2527/Cafe-Manegement-System-
 ```
 4. Make changes to the code.
 5. Once you are satisfied, commit the changes and push your code to the forked repository.
 6. Create a pull request from the forked repository to this repository. Make sure to provide a concise title and description and link the related issue to the pull request.Your pull request will only be accepted if the issue is assigned to you.
 
 We will review your code and merge it into the project. 
-Please adhere to the code of conduct mentioned in [code_of_conduct.md](https://github.com/Open-Source-Chandigarh/Cafe-Management/blob/main/conduct_of_code.md).
-
-Thanks for contributing!
 
 ## Tech Stack
 
